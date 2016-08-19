@@ -1,7 +1,7 @@
 Measure
 =======
 
-Because I am tired to convert inches and millimeters.
+Because I am tired of converting inches and millimeters.
 
 Simple class storing the measure value, in inches or millimeters. And
 automatically get the measure in the converted value.
